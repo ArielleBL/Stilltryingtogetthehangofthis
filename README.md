@@ -1,4 +1,4 @@
-# Stilltryingtogetthehangofthis
+# Still Trying To Get The Hang Of This
 
 ## This is how we edit the readme. file 
 
